@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "Collector": {
+            "applicationId": "AHwpdyMSuaTN2UZ4J2rZ9nRosZo3Lc3I2ITeF6wU", 
+            "masterKey": "BtMXrjYVVdwE1sqE7T2SgqxyxGjdjC6N8PM8FojG"
+        }, 
+        "_default": {
+            "link": "Collector"
+        }
+    }
+}
